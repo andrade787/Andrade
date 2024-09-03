@@ -1,8 +1,7 @@
 ## - Hello! My name is Vinicius Andrade 👋
 
 - 🔭 Developer;
-- 🌱 Studying Javascript, ReactJS;
-- 🎈 Specialty in PHP, HTML, CSS, JS, FIREBASE GOOGLE, DISCORD BOT
+- 🎈 Specialty Javascript, in PHP, HTML, CSS, JS, GOOGLE Firebase
 -----------------------------------------
 
 ### - Stats 🎲
